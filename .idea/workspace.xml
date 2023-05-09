@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cdfeae3a-13d7-43ee-835e-537331bef09d" name="Changes" comment="chujkurwachuj 5 zadan">
-      <change afterPath="$PROJECT_DIR$/src/CollectionComprator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CollectionComprator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CollectionComprator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +53,9 @@
       <workItem from="1683615648046" duration="1838000" />
       <workItem from="1683621385794" duration="2905000" />
       <workItem from="1683627344225" duration="3637000" />
-      <workItem from="1683632777099" duration="1152000" />
+      <workItem from="1683632777099" duration="1413000" />
+      <workItem from="1683634756822" duration="11000" />
+      <workItem from="1683635452719" duration="192000" />
     </task>
     <task id="LOCAL-00001" summary="start">
       <created>1683615673001</created>
@@ -69,7 +71,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683632943483</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="chujkurwachuj 5 zadan">
+      <created>1683634138389</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1683634138389</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
